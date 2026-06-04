@@ -1,7 +1,6 @@
 cachorro-do-mato-de-orelhas-curtas
 cachorro-do-mato-de-orelha-curta
 bem-te-vi-de-bico-chato
-maria-cavaleira-de-rabo-enferrujado
 macaco-prego-do-peito-amarelo
 beija-flor-de-fronte-violeta
 beija-flor-de-garganta-verde
@@ -27,7 +26,6 @@ curica-de-bochecha-laranja
 caneleiro-de-chapeu-preto
 cascavel-de-quatro-ventas
 cachorro-do-mato-vinagre
-jacu-de-barriga-castanha
 tiriba-de-testa-vermelha
 aracari-de-bico-riscado
 urubu-de-cabeca-amarela
@@ -46,7 +44,6 @@ sagui-da-serra-escuro
 urubu-de-cabeca-preta
 beija-flor-de-topete
 cereja-do-rio-grande
-cuco-de-bico-amarelo
 melao-de-sao-caetano
 sagui-de-cara-branca
 sagui-de-tufo-branco
@@ -71,7 +68,6 @@ flor-de-sao-joao
 tuim-de-asa-azul
 cha-de-sao-joao
 maria-cavaleira-pequena
-pintassilgo-do-nordeste
 arara-vermelha-pequena
 guaxinim-sul-americano
 papa-lagarta-acanelado
@@ -157,7 +153,6 @@ castanha-do-para
 cigarra-do-campo
 cravo-de-defunto
 dragao-de-komodo
-graviola-do-mato
 jararaca-da-mata
 laranja-da-terra
 mosca-das-frutas
@@ -234,7 +229,6 @@ bicho-da-seda
 bico-de-lacre
 botao-de-ouro
 cana-do-brejo
-cana-do-reino
 chapeu-de-sol
 copo-de-leite
 corpo-a-corpo
