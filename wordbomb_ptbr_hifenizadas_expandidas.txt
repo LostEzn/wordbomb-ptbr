@@ -17,7 +17,6 @@ mico-leao-da-cara-dourada
 mico-leao-de-cara-dourada
 beija-flor-de-peito-azul
 pica-pau-de-banda-branca
-mico-leao-de-cara-preta
 caboclinho-de-barriga-vermelha
 periquito-de-encontro-amarelo
 sanhaco-de-encontro-amarelo
@@ -74,7 +73,6 @@ papa-lagarta-acanelado
 arara-vermelha-grande
 tartaruga-da-amazonia
 araponga-da-amazonia
-capivara-do-pantanal
 jaguatirica-do-norte
 papa-moscas-cinzento
 perereca-de-banheiro
@@ -83,7 +81,6 @@ vassourinha-do-campo
 amarelinha-do-campo
 araticum-do-cerrado
 barbatimao-do-campo
-caititu-do-pantanal
 camaleao-do-cerrado
 cardeal-do-nordeste
 coleirinho-do-brejo
@@ -194,7 +191,6 @@ ponto-e-virgula
 raposa-do-campo
 rosa-do-deserto
 xexeu-do-mangue
-abre-te-sesamo
 ave-do-paraiso
 balaio-de-gato
 barba-de-velho
@@ -202,7 +198,6 @@ boi-de-piranha
 cabo-de-guerra
 cafe-com-leite
 cana-de-acucar
-cancao-de-fogo
 cardeal-do-sul
 chave-de-fenda
 cola-de-cavalo
@@ -214,7 +209,6 @@ curio-do-brejo
 estrela-do-mar
 fruta-do-conde
 joao-corta-pau
-pinha-do-brejo
 rabo-de-macaco
 rabo-de-raposa
 sabia-do-campo
@@ -697,7 +691,6 @@ peixe-boi
 porta-voz
 sai-verde
 serra-pau
-siri-azul
 tatu-bola
 tatu-peba
 teco-teco
